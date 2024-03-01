@@ -1,0 +1,13 @@
+{
+  "workspace:close": [],
+  "editor:delete-paragraph": [],
+  "switcher:open": [],
+  "file-explorer:new-file-in-current-tab": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "O"
+    }
+  ]
+}

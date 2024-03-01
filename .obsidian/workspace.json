@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "b49d56e935d96994",
+    "type": "split",
+    "children": [
+      {
+        "id": "7232494dadfb4817",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a22146f4ed6d09f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Suli/Pénzügytan - 02.23..md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4464cc53240ee8a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Suli/Pénzügytan - 02.23..md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4f1eddc53ec3bd20",
+    "type": "split",
+    "children": [
+      {
+        "id": "13fc89bbf63ea9e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79c4ab00c62904f2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "155ea6b2dc4f5a23",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "461b2d0900d267c1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 282.5026054382324
+  },
+  "right": {
+    "id": "e3285da4892c39c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8878500a7fd39965",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b936e0faa5e4ac54",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Suli/Pénzügytan - 02.23..md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "95d83e7ca1cb71a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Suli/Pénzügytan - 02.23..md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bf01d5436ab42982",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "198c626d976928a3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Suli/Pénzügytan - 02.23..md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4464cc53240ee8a1",
+  "lastOpenFiles": [
+    "Suli/Pénzügytan - 02.23..md~",
+    "Suli/Makroökonómia - 02.09..md",
+    "create a link.md",
+    "Untitled.md",
+    "framework_readme.md",
+    "asd.md"
+  ]
+}
