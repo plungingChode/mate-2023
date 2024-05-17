@@ -2,5 +2,7 @@
   "accentColor": "",
   "cssTheme": "Minimal",
   "theme": "obsidian",
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "textFontFamily": "Avenir Next LT Pro",
+  "interfaceFontFamily": "Avenir Next LT Pro"
 }

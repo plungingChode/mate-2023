@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "7232494dadfb4817",
+        "id": "85bf6aa35d5b6df5",
         "type": "tabs",
         "children": [
           {
-            "id": "a22146f4ed6d09f7",
+            "id": "e433e70b1019a469",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Suli/Pénzügytan - 02.23..md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4464cc53240ee8a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Suli/Pénzügytan - 02.23..md",
-                "mode": "preview",
-                "source": true
+                "file": "Excalidraw/penzugytan__lizing_alanyai_menete.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#what",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Suli/Pénzügytan - 02.23..md",
+                "file": "Excalidraw/penzugytan__lizing_alanyai_menete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Suli/Pénzügytan - 02.23..md",
+                "file": "Excalidraw/penzugytan__lizing_alanyai_menete.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Suli/Pénzügytan - 02.23..md"
+                "file": "Excalidraw/penzugytan__lizing_alanyai_menete.md"
               }
             }
           }
@@ -156,15 +141,32 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4464cc53240ee8a1",
+  "active": "e433e70b1019a469",
   "lastOpenFiles": [
+    "Excalidraw/makrookonomia__aramlasi_sema.excalidraw.md",
+    "Excalidraw/makorokonomia__laffer_gorbe.excalidraw.md",
+    "Pénzügytan/osszes_eloadas.md",
+    "Pénzügytan/osszes_eloadas.md~",
+    "Excalidraw/penzugytan__lizing_alanyai_menete.md",
+    "Excalidraw/penzugytan__szabalyozas_es_gazdasagi_novekedes.md",
+    "Excalidraw/penzugytan__bazel_2.md",
+    "Excalidraw/penzugytan___nem_azonos_tagu_penzaramok.excalidraw.md",
+    "Pénzügytan/4913",
+    "letéti szolgáltatás.md",
+    "Makroökonómia/eloadas_2024_03_09.md",
+    "Makroökonómia/eloadas_2024_02_09.md",
+    "Makroökonómia/eloadas_2024_02_09.md~",
+    "Untitled.md",
+    "Excalidraw",
+    "image.excalidraw.md",
+    "Pénzügytan/eloadas_2024_02_23.md",
     "Suli/Pénzügytan - 02.23..md~",
     "Suli/Makroökonómia - 02.09..md",
     "create a link.md",
-    "Untitled.md",
     "framework_readme.md",
     "asd.md"
   ]
