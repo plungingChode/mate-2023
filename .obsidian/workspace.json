@@ -11,9 +11,11 @@
             "id": "e433e70b1019a469",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/penzugytan__lizing_alanyai_menete.md"
+                "file": "Pénzügytan/gyakorlat.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/penzugytan__lizing_alanyai_menete.md",
+                "file": "Pénzügytan/gyakorlat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/penzugytan__lizing_alanyai_menete.md",
+                "file": "Pénzügytan/gyakorlat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/penzugytan__lizing_alanyai_menete.md"
+                "file": "Pénzügytan/gyakorlat.md"
               }
             }
           }
@@ -147,11 +149,15 @@
   },
   "active": "e433e70b1019a469",
   "lastOpenFiles": [
+    "Pénzügytan/gyakorlat.md~",
+    "Pénzügytan/eloadas_2024_03_22.md",
+    "Pénzügytan/eloadas_2024_02_23.md",
+    "Pénzügytan/gyakorlat.md",
+    "Pénzügytan/osszes_eloadas.md",
+    "Excalidraw/penzugytan__lizing_alanyai_menete.md",
     "Excalidraw/makrookonomia__aramlasi_sema.excalidraw.md",
     "Excalidraw/makorokonomia__laffer_gorbe.excalidraw.md",
-    "Pénzügytan/osszes_eloadas.md",
     "Pénzügytan/osszes_eloadas.md~",
-    "Excalidraw/penzugytan__lizing_alanyai_menete.md",
     "Excalidraw/penzugytan__szabalyozas_es_gazdasagi_novekedes.md",
     "Excalidraw/penzugytan__bazel_2.md",
     "Excalidraw/penzugytan___nem_azonos_tagu_penzaramok.excalidraw.md",
@@ -163,7 +169,6 @@
     "Untitled.md",
     "Excalidraw",
     "image.excalidraw.md",
-    "Pénzügytan/eloadas_2024_02_23.md",
     "Suli/Pénzügytan - 02.23..md~",
     "Suli/Makroökonómia - 02.09..md",
     "create a link.md",
